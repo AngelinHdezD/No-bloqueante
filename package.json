@@ -1,0 +1,19 @@
+{
+  "name": "nobloqueante",
+  "version": "1.0.0",
+  "description": "Segundo Programa, No Bloqueante",
+  "main": "NoBloqueante.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelinHdezD/No-bloqueante.git"
+  },
+  "author": "Angel Hernandez Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelinHdezD/No-bloqueante/issues"
+  },
+  "homepage": "https://github.com/AngelinHdezD/No-bloqueante#readme"
+}
